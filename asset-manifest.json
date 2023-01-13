@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/changethelifegit%20/static/css/main.7cb9bd36.css",
+    "main.js": "/changethelifegit%20/static/js/main.6ab18ff4.js",
+    "static/js/787.f2508bda.chunk.js": "/changethelifegit%20/static/js/787.f2508bda.chunk.js",
+    "index.html": "/changethelifegit%20/index.html",
+    "main.7cb9bd36.css.map": "/changethelifegit%20/static/css/main.7cb9bd36.css.map",
+    "main.6ab18ff4.js.map": "/changethelifegit%20/static/js/main.6ab18ff4.js.map",
+    "787.f2508bda.chunk.js.map": "/changethelifegit%20/static/js/787.f2508bda.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7cb9bd36.css",
+    "static/js/main.6ab18ff4.js"
+  ]
+}
